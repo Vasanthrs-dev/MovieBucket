@@ -3,7 +3,7 @@ import StarRating from "../../StarRating";
 import { useKey } from "../../hooks/useKey";
 import Loader from "../Loader";
 
-const KEY = "c2fbc96c";
+const KEY = "YOUR KEY";
 
 export default function MovieDetails({
   selectedID,
