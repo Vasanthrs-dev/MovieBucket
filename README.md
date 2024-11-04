@@ -4,7 +4,7 @@ Welcome to **MovieBucket** – a modern, feature-rich movie app that helps you s
 
 ## 🎬 Live Demo
 
-Experience MovieBucket online with our [Live Demo](https://movie-bucket-rs.netlify.app/).
+Experience MovieBucket online with the [Live Demo](https://movie-bucket-rs.netlify.app/).
 
 ## 🌟 Key Features
 
